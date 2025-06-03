@@ -1,8 +1,8 @@
 function Home (){
     return(
-        <div>
+        <main>
             <p>Home implementado</p>
-        </div>
+        </main>
     );
 }
 
