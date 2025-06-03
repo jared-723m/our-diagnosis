@@ -1,8 +1,12 @@
+import Header from "../Header";
+
 function Home (){
+    
     return(
-        <main>
+        <div>
+            <Header/>
             <p>Home implementado</p>
-        </main>
+        </div>
     );
 }
 

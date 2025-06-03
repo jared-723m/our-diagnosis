@@ -1,5 +1,6 @@
 import { Link } from "react-router";
-function header(){
+import './css/header.css'
+function Header(){
     return(
         <header>
             <h1>Our Diagnosis</h1>
@@ -13,4 +14,4 @@ function header(){
     );
 }
 
-export default header;
+export default Header;
